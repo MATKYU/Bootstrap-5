@@ -1,0 +1,38 @@
+
+Variable {
+  --blue: #2354a1;
+  --grey: #f8f8fa;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+
+  background-color: #f8f8fa;
+}
+
+.text a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
+
+.blue{
+    display: flex;
+    height: 25px;
+    color: white;
+}
+
+.blue .text-center{
+    color: white;
+}
